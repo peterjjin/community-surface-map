@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Crack Assessment Map</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    #map {
+      height: 100vh;
+      width: 70%;
+      float: left;
+    }
+    #sidebar {
+      height: 100vh;
+      width: 30%;
+      float: right;
+      overflow-y: hidden;
+      padding: 10px;
+      box-sizing: border-box;
+    }
+    .tabs {
+      display: flex;
+      margin-bottom: 10px;
+    }
+    .tab {
+      flex: 1;
+      padding: 8px;
+      cursor: pointer;
+      background: #eee;
+      text-align: center;
+      border: 1px solid #ccc;
+    }
+    .tab.active {
+      background: #ccc;
+      font-weight: bold;
+    }
+    .layer-content {
+      display: none;
+      overflow-y: scroll;
+      height: calc(100vh - 100px);
+    }
+    .layer-content.active {
+      display: block;
+    }
+    .entry-record {
+      cursor: pointer;
+      padding: 5px;
+      border-bottom: 1px solid #ddd;
+    }
+    .entry-record:hover {
+      background-color: #f0f0f0;
+    }
+    .zoom-container {
+      overflow: hidden;
+      position: relative;
+      display: inline-block;
+      max-width: 100%;
+      max-height: 400px;
+    }
+    .zoomable-image {
+      width: 100%;
+      height: auto;
+      max-height: 400px;
+      object-fit: contain;
+      cursor: grab;
+      transform-origin: center center;
+    }
+    .image-nav {
+      display: flex;
+      justify-content: center;
+      gap: 5px;
+      margin-top: 5px;
+    }
+    .image-nav button.active {
+      font-weight: bold;
+      background-color: #ddd;
+    }
+  </style>
+</head>
+<body>
+  <div id="map"></div>
+  <div id="sidebar">
+    <h3>Layers</h3>
+    <div class="layer-toggle"><input type="checkbox" id="drivewayToggle" checked> Driveways</div>
+    <div class="layer-toggle"><input type="checkbox" id="roadToggle" checked> Roads</div>
+    <div class="layer-toggle"><input type="checkbox" id="pedwalkToggle" checked> Ped Walks</div>
+
+    <div class="tabs">
+      <div class="tab active" data-tab="driveway">Driveways</div>
+      <div class="tab" data-tab="road">Roads</div>
+      <div class="tab" data-tab="pedwalk">Ped Walks</div>
+    </div>
+
+    <div id="drivewayContent" class="layer-content active"></div>
+    <div id="roadContent" class="layer-content"></div>
+    <div id="pedwalkContent" class="layer-content"></div>
+  </div>
+
+  <script>
+    let map;
+    let drivewayMarkers = [], roadMarkers = [], pedwalkMarkers = [];
+
+    const severityColors = {
+      High: 'http://maps.google.com/mapfiles/ms/icons/red-dot.png',
+      Medium: 'http://maps.google.com/mapfiles/ms/icons/orange-dot.png',
+      Low: 'http://maps.google.com/mapfiles/ms/icons/blue-dot.png'
+    };
+
+    function fetchDataAndInitMap() {
+      Promise.all([
+        fetch('driveway.json').then(res => res.json()),
+        fetch('road.json').then(res => res.json()),
+        fetch('pedwalk.json').then(res => res.json())
+      ]).then(([dData, rData, pData]) => {
+        initMap();
+        loadLayer(dData, drivewayMarkers, 'driveway');
+        loadLayer(rData, roadMarkers, 'road');
+        loadLayer(pData, pedwalkMarkers, 'pedwalk');
+      });
+    }
+
+    function initMap() {
+      map = new google.maps.Map(document.getElementById("map"), {
+        zoom: 18,
+        center: { lat: 40.6587923054672, lng: -74.61824871906622 },
+        mapTypeId: 'satellite'
+      });
+    }
+
+    function loadLayer(data, markerArray, type) {
+      const container = document.getElementById(`${type}Content`);
+      const sortedData = [...data].sort((a, b) => {
+        const levels = { High: 3, Medium: 2, Low: 1 };
+        return levels[b['Crack Severity']] - levels[a['Crack Severity']];
+      });
+
+      sortedData.forEach(item => {
+        const pos = {
+          lat: parseFloat(item.mapview_lat),
+          lng: parseFloat(item.mapview_lon)
+        };
+
+        const filenames = item.filename?.split(',') || [];
+        const urls = filenames.map(fn => `crack-photos-web/${fn.trim()}`);
+        let currentImg = 0;
+
+        const marker = new google.maps.Marker({
+          position: pos,
+          map,
+          icon: severityColors[item['Crack Severity']] || undefined
+        });
+
+        const content = document.createElement('div');
+        const imgContainer = document.createElement('div');
+        imgContainer.className = 'zoom-container';
+        const img = document.createElement('img');
+        img.src = urls[currentImg];
+        img.className = 'zoomable-image';
+        imgContainer.appendChild(img);
+        content.appendChild(imgContainer);
+
+        let scale = 1, translateX = 0, translateY = 0;
+        let isDragging = false, startX = 0, startY = 0;
+
+        function updateTransform() {
+          img.style.transform = `translate(${translateX}px, ${translateY}px) scale(${scale})`;
+        }
+
+        function resetView() {
+          scale = 1; translateX = 0; translateY = 0;
+          updateTransform();
+        }
+
+        img.addEventListener('wheel', e => {
+          e.preventDefault();
+          const delta = e.deltaY < 0 ? 1.1 : 0.9;
+          scale = Math.max(1, scale * delta);
+          updateTransform();
+        });
+
+        img.addEventListener('mousedown', e => {
+          if (e.button !== 0) return;
+          isDragging = true;
+          startX = e.clientX - translateX;
+          startY = e.clientY - translateY;
+          img.style.cursor = 'grabbing';
+        });
+
+        document.addEventListener('mouseup', () => {
+          isDragging = false;
+          img.style.cursor = 'grab';
+        });
+
+        img.addEventListener('mouseleave', () => {
+          isDragging = false;
+          img.style.cursor = 'grab';
+        });
+
+        img.addEventListener('mousemove', e => {
+          if (isDragging) {
+            translateX = e.clientX - startX;
+            translateY = e.clientY - startY;
+            updateTransform();
+          }
+        });
+
+        img.addEventListener('dblclick', resetView);
+
+        if (urls.length > 1) {
+          const nav = document.createElement('div');
+          nav.className = 'image-nav';
+
+          const prevBtn = document.createElement('button');
+          prevBtn.innerText = '<';
+          prevBtn.onclick = () => {
+            if (currentImg > 0) {
+              currentImg--;
+              img.src = urls[currentImg];
+              resetView();
+              updatePagination();
+            }
+          };
+          nav.appendChild(prevBtn);
+
+          const pageBtns = urls.map((_, i) => {
+            const btn = document.createElement('button');
+            btn.innerText = i + 1;
+            btn.onclick = () => {
+              currentImg = i;
+              img.src = urls[currentImg];
+              resetView();
+              updatePagination();
+            };
+            return btn;
+          });
+
+          const nextBtn = document.createElement('button');
+          nextBtn.innerText = '>';
+          nextBtn.onclick = () => {
+            if (currentImg < urls.length - 1) {
+              currentImg++;
+              img.src = urls[currentImg];
+              resetView();
+              updatePagination();
+            }
+          };
+
+          const updatePagination = () => {
+            pageBtns.forEach((btn, i) => {
+              btn.classList.toggle('active', i === currentImg);
+            });
+          };
+
+          pageBtns.forEach(btn => nav.appendChild(btn));
+          nav.appendChild(nextBtn);
+          content.appendChild(nav);
+          updatePagination();
+        }
+
+        const infoWindow = new google.maps.InfoWindow({ content });
+        marker.addListener("click", () => infoWindow.open(map, marker));
+        markerArray.push(marker);
+
+        const record = document.createElement('div');
+        record.className = 'entry-record';
+        record.innerHTML = `<strong>${item.Address || item.filename}</strong><br>Severity: ${item['Crack Severity']}<br>${item.Description}`;
+        record.addEventListener('click', () => {
+          map.panTo(marker.getPosition());
+          infoWindow.open(map, marker);
+        });
+        container.appendChild(record);
+      });
+    }
+
+    document.querySelectorAll('.tab').forEach(tab => {
+      tab.addEventListener('click', () => {
+        document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+        document.querySelectorAll('.layer-content').forEach(c => c.classList.remove('active'));
+        tab.classList.add('active');
+        document.getElementById(`${tab.dataset.tab}Content`).classList.add('active');
+      });
+    });
+
+    function toggleLayer(markers, isVisible) {
+      markers.forEach(marker => marker.setVisible(isVisible));
+    }
+
+    document.getElementById('drivewayToggle').addEventListener('change', e => toggleLayer(drivewayMarkers, e.target.checked));
+    document.getElementById('roadToggle').addEventListener('change', e => toggleLayer(roadMarkers, e.target.checked));
+    document.getElementById('pedwalkToggle').addEventListener('change', e => toggleLayer(pedwalkMarkers, e.target.checked));
+  </script>
+  <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB80o4p5uXX73GGsU1mASy6PkyadW7Wv5U&callback=fetchDataAndInitMap"></script>
+</body>
+</html>

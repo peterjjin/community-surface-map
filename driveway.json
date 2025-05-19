@@ -1,0 +1,752 @@
+[
+  {
+    "Address":"1 Barton Way",
+    "Description":"Distinct sealing near driveway edge with minor surface wear. | Edge sealing visible; surface generally even and intact.",
+    "Prior Fixes":"Crack sealed",
+    "filename":"20250510191416_1_BartonWay_[3].jpg, 20250510191428_1_BartonWay_[3].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/n80glc754o8bijhxbxosu\/20250510191416_1_BartonWay_-3.jpg?rlkey=nug1ss4opiap2z39ndbg6sdum&dl=0, https:\/\/www.dropbox.com\/scl\/fi\/2qaca4ns0bnmer8jaj6ok\/20250510191428_1_BartonWay_-3.jpg?rlkey=ng6plfgc5u5jqaf4gflzchv0d&dl=0",
+    "Crack Severity":"Medium",
+    "mapview_lat":40.6573703,
+    "mapview_lon":-74.6188596
+  },
+  {
+    "Address":"1 Witherspoon Ln",
+    "Description":"Cracking near curb and mailbox, minor surface deterioration.",
+    "Prior Fixes":"Edge sealed",
+    "filename":"20250510191655_1_WitherspoonLn_[27].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/1ayd0ciiaeqkgte5kokrn\/20250510191655_1_WitherspoonLn_-27.jpg?rlkey=45phexpjqqf21l5v7hbrc38a7&dl=0",
+    "Crack Severity":"Low",
+    "mapview_lat":40.6582152,
+    "mapview_lon":-74.6194476
+  },
+  {
+    "Address":"10 Austin Dr",
+    "Description":"Consistent asphalt surface with no edge breaks or surface distress. | No visible cracks; fresh pavement aligned with sidewalk joint. | Side entryway in pristine shape; no sealant lines or surface marks. | Crack line sealed near bottom edge; light discoloration in patch area.",
+    "Prior Fixes":"None visible | Minor sealing",
+    "filename":"20250510193237_10_AustinDr_[6].jpg, 20250510193239_10_AustinDr_[6].jpg, 20250510193551_10_AustinDr_[10].jpg, 20250510193556_10_AustinDr_[10].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/4sjff6o7f95sx5quce7m6\/20250510193237_10_AustinDr_-6.jpg?rlkey=gr720bvqckc1kwziil6rr8cjw&dl=0, https:\/\/www.dropbox.com\/scl\/fi\/afpmwcjnuof7x4ehvh8ng\/20250510193239_10_AustinDr_-6.jpg?rlkey=2odzeainvidlymqqisjeq332k&dl=0, https:\/\/www.dropbox.com\/scl\/fi\/vvpnav2tu40q98d21sagw\/20250510193551_10_AustinDr_-10.jpg?rlkey=tdhmqvlrh0xhxce5k7rvks2z8&dl=0, https:\/\/www.dropbox.com\/scl\/fi\/ouecsp7qr8r0vqp5e95v0\/20250510193556_10_AustinDr_-10.jpg?rlkey=lo0kdidroytxmt2ff44bjwzf4&dl=0",
+    "Crack Severity":"Medium",
+    "mapview_lat":40.6570671,
+    "mapview_lon":-74.620365
+  },
+  {
+    "Address":"10 Dickinson Rd",
+    "Description":"Clean surface with minimal cracking; sealcoat intact.",
+    "Prior Fixes":"None visible",
+    "filename":"20250510185616_10_DickinsonRd_[8].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/atnb4j24jifk4gi6o306q\/20250510185616_10_DickinsonRd_-8.jpg?rlkey=svndeirb9hq9czknlt0pksldb&dl=0",
+    "Crack Severity":"Low",
+    "mapview_lat":40.6578728,
+    "mapview_lon":-74.6181471
+  },
+  {
+    "Address":"10 Hadley Ct",
+    "Description":"Visible tar seal tracing to curb; crack appears filled recently. | Entire driveway surface looks newly repaved and uniform. | No cracking visible from this side view; neat curb alignment. | Driveway entry point neat with no structural or sealing damage.",
+    "Prior Fixes":"Crack sealed | None visible",
+    "filename":"20250510192650_10_HadleyCt_[10].jpg, 20250510192655_10_HadleyCt_[10].jpg, 20250510192701_10_HadleyCt_[10].jpg, 20250510192705_10_HadleyCt_[10].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/y98sozbjpjz6z0tmrodk1\/20250510192650_10_HadleyCt_-10.jpg?rlkey=5y5y1636j172c6r7dwc4uhtxc&dl=0, https:\/\/www.dropbox.com\/scl\/fi\/gdhms018o5sdvredezt24\/20250510192655_10_HadleyCt_-10.jpg?rlkey=trwh6d2i4tg81tuueazz98w3q&dl=0, https:\/\/www.dropbox.com\/scl\/fi\/jx7c311v3wmx1fedkgulr\/20250510192701_10_HadleyCt_-10.jpg?rlkey=obzoc757cpz18kxmz6etf0mfo&dl=0, https:\/\/www.dropbox.com\/scl\/fi\/3jlwwmmy30t9wzlsoowsy\/20250510192705_10_HadleyCt_-10.jpg?rlkey=e1jzxi3tr3wepspyh77ml342w&dl=0",
+    "Crack Severity":"Medium",
+    "mapview_lat":40.658137,
+    "mapview_lon":-74.6215308
+  },
+  {
+    "Address":"10 Springfield Ln",
+    "Description":"Isolated surface crack sealed near curb; otherwise excellent pavement quality.",
+    "Prior Fixes":"Minor seal",
+    "filename":"20250510184231_10_SpringfieldLn_[8].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/8tkx8bh1ss39dgcssvqe2\/20250510184231_10_SpringfieldLn_-8.jpg?rlkey=e5tgge0m700k8vdxzczbwxyux&dl=0",
+    "Crack Severity":"Low",
+    "mapview_lat":40.6612142,
+    "mapview_lon":-74.6169017
+  },
+  {
+    "Address":"11 Witherspoon Ln",
+    "Description":"Recently sealed driveway with a clean blacktop and no visible active cracks. | Surface is intact with no major cracks; consistent sealcoat finish.",
+    "Prior Fixes":"None visible",
+    "filename":"20250510185344_11_WitherspoonLn_[11].jpg, 20250510185445_11_WitherspoonLn_[11].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/e1qmcwr7j0xt84g4o8chx\/20250510185344_11_WitherspoonLn_-11.jpg?rlkey=lsxsciiupj0eyt70co9vee4nj&dl=0, https:\/\/www.dropbox.com\/scl\/fi\/nol69njqqj9moj9fh1p4h\/20250510185445_11_WitherspoonLn_-11.jpg?rlkey=sqi42zinb942dsr91d96enrvx&dl=0",
+    "Crack Severity":"Low",
+    "mapview_lat":40.6586463,
+    "mapview_lon":-74.6188091
+  },
+  {
+    "Address":"12 Benedict Crescent",
+    "Description":"Well-maintained blacktop with no cracking, repairs, or discoloration. | Second view reinforces intact condition; excellent surface quality.",
+    "Prior Fixes":"",
+    "filename":"20250510185154_12_BenedictCrescent_[11].jpg, 20250510185202_12_BenedictCrescent_[11].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/ks95puqgn2h5vzezbyfbw\/20250510185154_12_BenedictCrescent_-11.jpg?rlkey=rmq6yqsbscg19oj0a2coay3dl&dl=0, https:\/\/www.dropbox.com\/scl\/fi\/zpw52d4riepdvx6ndf3ez\/20250510185202_12_BenedictCrescent_-11.jpg?rlkey=90bj6hj49738sa3qtxlf31wby&dl=0",
+    "Crack Severity":"Low",
+    "mapview_lat":40.6589548,
+    "mapview_lon":-74.6186643
+  },
+  {
+    "Address":"12 Hadley Ct",
+    "Description":"Freshly paved appearance with no crack lines; uniform asphalt finish.",
+    "Prior Fixes":"None visible",
+    "filename":"20250510192628_12_HadleyCt_[16].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/angef50rle3bcr1bck3t7\/20250510192628_12_HadleyCt_-16.jpg?rlkey=swiy70nyekk75l6r0fgkv0ooc&dl=0",
+    "Crack Severity":"Low",
+    "mapview_lat":40.6581111,
+    "mapview_lon":-74.6216677
+  },
+  {
+    "Address":"12 Springfield Ln",
+    "Description":"Driveway appears in very good shape; fine surface wear but no visible cracks. | Continuation of driveway inspection; no surface cracks or edge breaks noted. | Final view of 12 Springfield Ln driveway; intact pavement with minimal wear.",
+    "Prior Fixes":"",
+    "filename":"20250510184300_12_SpringfieldLn_[8].jpg, 20250510184302_12_SpringfieldLn_[8].jpg, 20250510184312_12_SpringfieldLn_[8].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/ynmpb0p8ysc4tpsar4ly1\/20250510184300_12_SpringfieldLn_-8.jpg?rlkey=ux7xy1twpopdauf6b1b59wynq&dl=0, https:\/\/www.dropbox.com\/scl\/fi\/8wsd2rjo49cf4byw0l1dd\/20250510184302_12_SpringfieldLn_-8.jpg?rlkey=754ntg8qj7fp0zq3rr1znoorj&dl=0, https:\/\/www.dropbox.com\/scl\/fi\/9qtmn28w9k3v7pc0vclkk\/20250510184312_12_SpringfieldLn_-8.jpg?rlkey=swtwoemqnuae4wa8bvu0h50gk&dl=0",
+    "Crack Severity":"Low",
+    "mapview_lat":40.6611875,
+    "mapview_lon":-74.6167752
+  },
+  {
+    "Address":"13 Benedict Crescent",
+    "Description":"No visible cracks; shadow contrast shows some light surface unevenness.",
+    "Prior Fixes":"",
+    "filename":"20250510185123_13_BenedictCrescent_[17].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/siiti4ei5j6joixnsu6q3\/20250510185123_13_BenedictCrescent_-17.jpg?rlkey=yhyd3b41w269lhtcyzrv2k8gg&dl=0",
+    "Crack Severity":"Low",
+    "mapview_lat":40.6591565,
+    "mapview_lon":-74.618187
+  },
+  {
+    "Address":"14 Benedict Crescent",
+    "Description":"Surface displays spidering near garage entrance; no patches detected. | View of central section with faint but multiple fractures; likely progressing.",
+    "Prior Fixes":"None visible",
+    "filename":"20250510185053_14_BenedictCrescent_[17].jpg, 20250510185055_14_BenedictCrescent_[17].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/tucvdigynek6pchrr78pp\/20250510185053_14_BenedictCrescent_-17.jpg?rlkey=8l1r4caku7if9qvsmtjl8jjl5&dl=0, https:\/\/www.dropbox.com\/scl\/fi\/0zh4qd91rvswhrbs11gxl\/20250510185055_14_BenedictCrescent_-17.jpg?rlkey=f9jtr2l3ffo8jfqsdvaer9cml&dl=0",
+    "Crack Severity":"Medium",
+    "mapview_lat":40.6591626,
+    "mapview_lon":-74.6188491
+  },
+  {
+    "Address":"14 Hadley Ct",
+    "Description":"Slight sealant line along one edge; otherwise smooth blacktop.",
+    "Prior Fixes":"Edge sealed",
+    "filename":"20250510192605_14_HadleyCt_[16].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/waz6julo1rzxbbdq04s2x\/20250510192605_14_HadleyCt_-16.jpg?rlkey=3n8venc5svh8q27ec8mp1l002&dl=0",
+    "Crack Severity":"Low",
+    "mapview_lat":40.6580964,
+    "mapview_lon":-74.6217879
+  },
+  {
+    "Address":"15 Dickinson Rd",
+    "Description":"No significant cracking; consistent asphalt finish. | Surface condition remains intact; second view from same location.",
+    "Prior Fixes":"",
+    "filename":"20250510185710_15_DickinsonRd_[7].jpg, 20250510185714_15_DickinsonRd_[7].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/ugrx1smqyd6l6fyo3gkad\/20250510185710_15_DickinsonRd_-7.jpg?rlkey=whflxhn7d3uq6gigegljnxl7u&dl=0, https:\/\/www.dropbox.com\/scl\/fi\/b5d5azmbkc0m5dkd3f5tj\/20250510185714_15_DickinsonRd_-7.jpg?rlkey=p3u058houhqxvk8jhnexl5cwr&dl=0",
+    "Crack Severity":"Low",
+    "mapview_lat":40.6573695,
+    "mapview_lon":-74.6179978
+  },
+  {
+    "Address":"16 Benedict Crescent",
+    "Description":"Crack along driveway edge sealed previously; surface intact otherwise.",
+    "Prior Fixes":"Edge sealing",
+    "filename":"20250510185045_16_BenedictCrescent_[17].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/jfwej2ewxzldkdei97d6t\/20250510185045_16_BenedictCrescent_-17.jpg?rlkey=47rwuy7jgrh3ezb893fnyeb5w&dl=0",
+    "Crack Severity":"Medium",
+    "mapview_lat":40.6592718,
+    "mapview_lon":-74.6188324
+  },
+  {
+    "Address":"16 Hadley Ct",
+    "Description":"Fully resurfaced driveway; no sealant or damage along curb.",
+    "Prior Fixes":"None visible",
+    "filename":"20250510192557_16_HadleyCt_[24].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/evn9vo6t3mrcvgsw183gg\/20250510192557_16_HadleyCt_-24.jpg?rlkey=b2onfmdadn5of7rplrw3ku3si&dl=0",
+    "Crack Severity":"Low",
+    "mapview_lat":40.6582364,
+    "mapview_lon":-74.6220649
+  },
+  {
+    "Address":"17 Dickinson Rd",
+    "Description":"Sealed longitudinal cracks near the center and curb edge.",
+    "Prior Fixes":"Crack sealed",
+    "filename":"20250510185740_17_DickinsonRd_[7].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/0sso3a6m6yybubnsud71u\/20250510185740_17_DickinsonRd_-7.jpg?rlkey=2yy2ilbmuzrdn6ely5ayupzc2&dl=0",
+    "Crack Severity":"Low",
+    "mapview_lat":40.6574298,
+    "mapview_lon":-74.6179017
+  },
+  {
+    "Address":"18 Hadley Ct",
+    "Description":"Clean surface with slight patch mark near sidewalk; no cracks present. | Tar edge sealing present on one side of the narrow drive median.",
+    "Prior Fixes":"None visible | Edge sealed",
+    "filename":"20250510192540_18_HadleyCt_[24].jpg, 20250510192548_18_HadleyCt_[24].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/dd1q1y81euuuqz2krgbtx\/20250510192540_18_HadleyCt_-24.jpg?rlkey=ylq0hoc9xoftcpc0a33oaolmk&dl=0, https:\/\/www.dropbox.com\/scl\/fi\/lfv89ovnwh81t95wf2p8i\/20250510192548_18_HadleyCt_-24.jpg?rlkey=bcjkatizgncnknqvsxnaeqnav&dl=0",
+    "Crack Severity":"Low",
+    "mapview_lat":40.6583378,
+    "mapview_lon":-74.622104
+  },
+  {
+    "Address":"19 Benedict Crescent",
+    "Description":"Curbside crack sealed previously; surface appears slightly uneven. | Very minor spidering near garage; otherwise in great condition.",
+    "Prior Fixes":"Edge crack sealed | None visible",
+    "filename":"20250510184853_19_BenedictCrescent_[19].jpg, 20250510184905_19_BenedictCrescent_[19].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/txwjsisxxft0aoiwx8kcb\/20250510184853_19_BenedictCrescent_-19.jpg?rlkey=48lnz4b3bpzk2vgn3xb9tw2e0&dl=0, https:\/\/www.dropbox.com\/scl\/fi\/da4hlr8s206c4c0xtr4x4\/20250510184905_19_BenedictCrescent_-19.jpg?rlkey=vrqbxw5oaz7oo3nsvepcl7nht&dl=0",
+    "Crack Severity":"Medium",
+    "mapview_lat":40.6595066,
+    "mapview_lon":-74.6182768
+  },
+  {
+    "Address":"19 Dickinson Rd",
+    "Description":"Cracks propagating from curb to grassy edge; sealant used but aged. | Distinct longitudinal cracks filled along edge; moderate wear.",
+    "Prior Fixes":"Edge sealed | Crack sealed",
+    "filename":"20250510185750_19_DickinsonRd_[17].jpg, 20250510185754_19_DickinsonRd_[17].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/vzvublpyzr8pxw8ptqioo\/20250510185750_19_DickinsonRd_-17.jpg?rlkey=l8nz7aj415g8m9d5ugx3x94j7&dl=0, https:\/\/www.dropbox.com\/scl\/fi\/gxk76ka6immz1nk5863td\/20250510185754_19_DickinsonRd_-17.jpg?rlkey=n71u3feiwp5xjtoi7ofx1jpqd&dl=0",
+    "Crack Severity":"Medium",
+    "mapview_lat":40.6575011,
+    "mapview_lon":-74.6177908
+  },
+  {
+    "Address":"2 Austin Dr",
+    "Description":"Fresh blacktop entryway with no surface cracks or sealant evidence.",
+    "Prior Fixes":"None visible",
+    "filename":"20250510192852_2_AustinDr_[2].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/v1xx3kp550u8f5n9stvzm\/20250510192852_2_AustinDr_-2.jpg?rlkey=b1mv4i5t4la92m613cpt8mmxn&dl=0",
+    "Crack Severity":"Low",
+    "mapview_lat":40.6574377,
+    "mapview_lon":-74.6208695
+  },
+  {
+    "Address":"2 Dickinson Rd",
+    "Description":"No significant cracks or damage; appears freshly sealed.",
+    "Prior Fixes":"None visible",
+    "filename":"20250510185834_2_DickinsonRd_[17].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/22i78sy2d31famplxbrnf\/20250510185834_2_DickinsonRd_-17.jpg?rlkey=zqp17asn82untxblwstf02w2f&dl=0",
+    "Crack Severity":"Low",
+    "mapview_lat":40.6582872,
+    "mapview_lon":-74.6185744
+  },
+  {
+    "Address":"21 Benedict Crescent",
+    "Description":"Driveway in clean condition; no visible cracks or patches applied.",
+    "Prior Fixes":"",
+    "filename":"20250510184847_21_BenedictCrescent_[19].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/8jdgd36mgmcbsmlbonqd4\/20250510184847_21_BenedictCrescent_-19.jpg?rlkey=vluh0f3tz4cr1hwdkujyfh5cq&dl=0",
+    "Crack Severity":"Low",
+    "mapview_lat":40.6596115,
+    "mapview_lon":-74.6182711
+  },
+  {
+    "Address":"21 Dickinson Rd",
+    "Description":"Edges sealed with no active cracks across main surface. | Sealing visible but surface remains smooth and even. | Near-uniform surface with minor sealed cracks along stone curb.",
+    "Prior Fixes":"Seam sealed",
+    "filename":"20250510185823_21_DickinsonRd_[17].jpg, 20250510185832_21_DickinsonRd_[17].jpg, 20250510185834_21_DickinsonRd_[17].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/zjd9ysnku6vkqemqakzdz\/20250510185823_21_DickinsonRd_-17.jpg?rlkey=kp5d9i57c0zualxtswugra2i0&dl=0, https:\/\/www.dropbox.com\/scl\/fi\/xcy23vsngb7epri14x9k8\/20250510185832_21_DickinsonRd_-17.jpg?rlkey=eoi533fdgm0leys3u1olk7fl0&dl=0, https:\/\/www.dropbox.com\/scl\/fi\/1qza28808avuds6r2dboo\/20250510185834_21_DickinsonRd_-17.jpg?rlkey=ubi74p71p28xs69mur223ps1g&dl=0",
+    "Crack Severity":"Low",
+    "mapview_lat":40.6576209,
+    "mapview_lon":-74.6175863
+  },
+  {
+    "Address":"21 Hadley Ct",
+    "Description":"Slight surface wear; no evident cracks; natural weather pattern visible.",
+    "Prior Fixes":"None visible",
+    "filename":"20250510192249_21_HadleyCt_[7].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/prc3rik4rluma3r6xm02m\/20250510192249_21_HadleyCt_-7.jpg?rlkey=vtz5cusd9rt5cs4h4mcqvh2h4&dl=0",
+    "Crack Severity":"Low",
+    "mapview_lat":40.6584331,
+    "mapview_lon":-74.6210915
+  },
+  {
+    "Address":"22 Benedict Crescent",
+    "Description":"Surface near-perfect; barely noticeable micro cracks only. | Excellent condition; no active or historical defects observed. | Smooth surface with no visible cracking or repairs; well-preserved condition. | No surface defects visible; clean and consistent blacktop. | Curb-to-garage stretch free of cracking; likely recently resurfaced. | Final view confirms consistently good condition throughout full driveway area.",
+    "Prior Fixes":"",
+    "filename":"20250510184926_22_BenedictCrescent_[19].jpg, 20250510184942_22_BenedictCrescent_[22].jpg, 20250510185014_22_BenedictCrescent_[22].jpg, 20250510185016_22_BenedictCrescent_[22].jpg, 20250510185024_22_BenedictCrescent_[22].jpg, 20250510185032_22_BenedictCrescent_[22].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/oklu4cg0l9nzec1f7x69c\/20250510184926_22_BenedictCrescent_-19.jpg?rlkey=4loah2rq7j2xvi9p1z81nxvi4&dl=0, https:\/\/www.dropbox.com\/scl\/fi\/yde7w2loqzku243kab8kk\/20250510184942_22_BenedictCrescent_-22.jpg?rlkey=11t5s4gytds0ltr1o8c0dq4bq&dl=0, https:\/\/www.dropbox.com\/scl\/fi\/11gvdygeunbkszozjxlv2\/20250510185014_22_BenedictCrescent_-22.jpg?rlkey=z95jdnsj0qlek3qdc0l6gg66r&dl=0, https:\/\/www.dropbox.com\/scl\/fi\/wp79m506szjq5ecby1qc4\/20250510185016_22_BenedictCrescent_-22.jpg?rlkey=t9ndemql2l2c3yazjgqz2sb84&dl=0, https:\/\/www.dropbox.com\/scl\/fi\/675qy9hdbcofaaoo57b0h\/20250510185024_22_BenedictCrescent_-22.jpg?rlkey=vopyktepg4yu4p085a7z56z1q&dl=0, https:\/\/www.dropbox.com\/scl\/fi\/vo7iimwyct07z5igdrwy1\/20250510185032_22_BenedictCrescent_-22.jpg?rlkey=lbt2pgz9y3xhaxvsf66rwfqqc&dl=0",
+    "Crack Severity":"Low",
+    "mapview_lat":40.659687,
+    "mapview_lon":-74.6188118
+  },
+  {
+    "Address":"22 Hadley Ct",
+    "Description":"Corner patching and tar sealing with curb deterioration.",
+    "Prior Fixes":"Tar seal applied",
+    "filename":"20250510192511_22_HadleyCt_[24].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/zi5oylszh99h5n89rudkk\/20250510192511_22_HadleyCt_-24.jpg?rlkey=w7xvxhydkdd2r2noo3xksdaqj&dl=0",
+    "Crack Severity":"Medium",
+    "mapview_lat":40.6585908,
+    "mapview_lon":-74.6218235
+  },
+  {
+    "Address":"23 Dickinson Rd",
+    "Description":"Entire surface intact with excellent finish and no patching. | Clean, smooth finish in second angle with no visible cracking. | Multiple sealed cracks extending from curb; visible surface wear.",
+    "Prior Fixes":"Crack sealed",
+    "filename":"20250510185841_23_DickinsonRd_[17].jpg, 20250510185845_23_DickinsonRd_[17].jpg, 20250510185851_23_DickinsonRd_[23].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/0gxwmhfk4js8h9n39c5o1\/20250510185841_23_DickinsonRd_-17.jpg?rlkey=g68xs6g7fe1p6m2h07p10mvn2&dl=0, https:\/\/www.dropbox.com\/scl\/fi\/1p7e3uqpsxso4bysilsdr\/20250510185845_23_DickinsonRd_-17.jpg?rlkey=dkl0jvs9whoizpger8n6ypjug&dl=0, https:\/\/www.dropbox.com\/scl\/fi\/vf8ff434uxx5gvahvz4r4\/20250510185851_23_DickinsonRd_-23.jpg?rlkey=99fv0wzrm6t5mqiupndu4h463&dl=0",
+    "Crack Severity":"Medium",
+    "mapview_lat":40.657689,
+    "mapview_lon":-74.6174666
+  },
+  {
+    "Address":"23 Hadley Ct",
+    "Description":"Edge cracking near curb; driveway surface mostly intact. | Edge crack extending from driveway to curb; sealed but visible. | Additional angle showing the same sealed edge crack continuing outward.",
+    "Prior Fixes":"Edge sealed | Crack sealed",
+    "filename":"20250510192256_23_HadleyCt_[7].jpg, 20250510192300_23_HadleyCt_[7].jpg, 20250510192302_23_HadleyCt_[7].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/76ncyla7rmbrwcco8260r\/20250510192256_23_HadleyCt_-7.jpg?rlkey=9xezut63cqnd9k2z08l9e0tj2&dl=0, https:\/\/www.dropbox.com\/scl\/fi\/lxy0kdfccs1ergqkjan1y\/20250510192300_23_HadleyCt_-7.jpg?rlkey=2ptbbvbbg3mi6ugzgat50uzqp&dl=0, https:\/\/www.dropbox.com\/scl\/fi\/o50m9x7iu33he3r23riwe\/20250510192302_23_HadleyCt_-7.jpg?rlkey=l9im77xgvo7ak2iwev77ea2a6&dl=0",
+    "Crack Severity":"Medium",
+    "mapview_lat":40.6585439,
+    "mapview_lon":-74.621121
+  },
+  {
+    "Address":"24 Hadley Ct",
+    "Description":"Good asphalt condition; no cracks or surface damage evident.",
+    "Prior Fixes":"None visible",
+    "filename":"20250510192503_24_HadleyCt_[24].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/cjuaseyehzsstyhxkesfw\/20250510192503_24_HadleyCt_-24.jpg?rlkey=569ljw8rpqdm4x0vzcjdv14bv&dl=0",
+    "Crack Severity":"Low",
+    "mapview_lat":40.6586124,
+    "mapview_lon":-74.6216711
+  },
+  {
+    "Address":"25 Amherst Dr",
+    "Description":"Surface wear visible with fine cracking near driveway edges.",
+    "Prior Fixes":"Moderate sealing",
+    "filename":"20250510191619_25_AmherstDr_[27].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/3uixlt7f2o3smh058oaya\/20250510191619_25_AmherstDr_-27.jpg?rlkey=mg90fuhehhsuvk6wsuucfjz8w&dl=0",
+    "Crack Severity":"Low",
+    "mapview_lat":40.6578708,
+    "mapview_lon":-74.6195617
+  },
+  {
+    "Address":"25 Benedict Crescent",
+    "Description":"Mid-driveway crack sealed previously; condition appears stable. | Sealed longitudinal crack with slight reopening near the base of the driveway. | Interconnected shallow cracking sealed along wheel paths; light surface wear.",
+    "Prior Fixes":"Edge sealing | Sealed crack mid-slab | Partial patching",
+    "filename":"20250510184746_25_BenedictCrescent_[25].jpg, 20250510184755_25_BenedictCrescent_[25].jpg, 20250510184804_25_BenedictCrescent_[25].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/q67k5upc3oj0uor5t28ot\/20250510184746_25_BenedictCrescent_-25.jpg?rlkey=s5x2ea1ggtwkf5zyx3gky72xb&dl=0, https:\/\/www.dropbox.com\/scl\/fi\/m5bvb8w1q4n24yyu2l2la\/20250510184755_25_BenedictCrescent_-25.jpg?rlkey=lb67mzdxwk84d6vvp8in58shc&dl=0, https:\/\/www.dropbox.com\/scl\/fi\/lysmy1vuw221t3wgf0b8x\/20250510184804_25_BenedictCrescent_-25.jpg?rlkey=ors00zujltq1s1jtw18e68gxi&dl=0",
+    "Crack Severity":"Medium",
+    "mapview_lat":40.6599181,
+    "mapview_lon":-74.6182152
+  },
+  {
+    "Address":"26 Hadley Ct",
+    "Description":"Curved joint area shows minor cracks and light edge sealing. | Cracks continue along edge; patch lines and surface wear visible. | New driveway surface; no visible cracks or wear.",
+    "Prior Fixes":"Edge sealed | None visible",
+    "filename":"20250510192358_26_HadleyCt_[23].jpg, 20250510192400_26_HadleyCt_[23].jpg, 20250510192500_26_HadleyCt_[26].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/84a3dldrtjxiq7tdldzzd\/20250510192358_26_HadleyCt_-23.jpg?rlkey=jfsh56gdxumyyswj6rxmxd8aw&dl=0, https:\/\/www.dropbox.com\/scl\/fi\/in8qgchnlzdfllywic36r\/20250510192400_26_HadleyCt_-23.jpg?rlkey=5whlpsc6jn58kwpfk0q55qplj&dl=0, https:\/\/www.dropbox.com\/scl\/fi\/uvshq4p9xed7eijfja9bh\/20250510192500_26_HadleyCt_-26.jpg?rlkey=qa7kn6hbzfr2nje8go9caybww&dl=0",
+    "Crack Severity":"Medium",
+    "mapview_lat":40.6589889,
+    "mapview_lon":-74.6214939
+  },
+  {
+    "Address":"27 Amherst Dr",
+    "Description":"No visible cracks or damage; excellent condition driveway. | Driveway appears freshly paved and in excellent condition.",
+    "Prior Fixes":"None visible",
+    "filename":"20250510191608_27_AmherstDr_[27].jpg, 20250510191621_27_AmherstDr_[27].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/3xsxm38qdlgnjs9sffjag\/20250510191608_27_AmherstDr_-27.jpg?rlkey=pm4w7hh06zyxhlupfi63nkty2&dl=0, https:\/\/www.dropbox.com\/scl\/fi\/acfp8f08ovzuvgf427iys\/20250510191621_27_AmherstDr_-27.jpg?rlkey=ol3z78acrv3h3lwttk17qmhyn&dl=0",
+    "Crack Severity":"Low",
+    "mapview_lat":40.6577855,
+    "mapview_lon":-74.6195173
+  },
+  {
+    "Address":"27 Dickinson Rd",
+    "Description":"Smooth surface, no active cracking observed. | Second view confirms good condition throughout.",
+    "Prior Fixes":"",
+    "filename":"20250510185916_27_DickinsonRd_[23].jpg, 20250510185918_27_DickinsonRd_[23].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/ul5vy4q2p4fe5p9rl5yea\/20250510185916_27_DickinsonRd_-23.jpg?rlkey=b6t8e01k9y98807pbipo99i1p&dl=0, https:\/\/www.dropbox.com\/scl\/fi\/nn7820y67jqu6i7bnfv48\/20250510185918_27_DickinsonRd_-23.jpg?rlkey=dzxwvmdmixrmhclo0oa7ouhnk&dl=0",
+    "Crack Severity":"Low",
+    "mapview_lat":40.6579287,
+    "mapview_lon":-74.61721
+  },
+  {
+    "Address":"28 Dickinson Rd",
+    "Description":"Center surface shows faint cracks forming a network. | Lateral cracking forming shallow branches; slight aging visible. | Another view showing deeper cracks in lower section.",
+    "Prior Fixes":"",
+    "filename":"20250510185943_28_DickinsonRd_[23].jpg, 20250510185954_28_DickinsonRd_[31].jpg, 20250510190006_28_DickinsonRd_[31].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/l04new8cn3q0t0pio4n8k\/20250510185943_28_DickinsonRd_-23.jpg?rlkey=lg7iaew2eqhvnq2vhrygf66d7&dl=0, https:\/\/www.dropbox.com\/scl\/fi\/pn52o5o1w2igfb318oj6p\/20250510185954_28_DickinsonRd_-31.jpg?rlkey=dh8el58jrcaewoghstb48hzku&dl=0, https:\/\/www.dropbox.com\/scl\/fi\/pi6frztstv6jbletlk19a\/20250510190006_28_DickinsonRd_-31.jpg?rlkey=qit34diy8v2twmgdin77whwux&dl=0",
+    "Crack Severity":"Medium",
+    "mapview_lat":40.6580054,
+    "mapview_lon":-74.6177522
+  },
+  {
+    "Address":"28 Hadley Ct",
+    "Description":"Large entryway with manhole; very minor surface marks, no cracks.",
+    "Prior Fixes":"None visible",
+    "filename":"20250510192328_28_HadleyCt_[23].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/1cyem75h73rmr41yu22wb\/20250510192328_28_HadleyCt_-23.jpg?rlkey=qhos06uy347bqwt1am19xnzoc&dl=0",
+    "Crack Severity":"Low",
+    "mapview_lat":40.6590235,
+    "mapview_lon":-74.6213519
+  },
+  {
+    "Address":"29 Amherst Dr",
+    "Description":"Fine cracking visible near the joint; sealed edges prevent propagation.",
+    "Prior Fixes":"Edge sealed",
+    "filename":"20250510191542_29_AmherstDr_[33].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/iqetc2iv29548yxzu0vbl\/20250510191542_29_AmherstDr_-33.jpg?rlkey=buu9ikfjfd0jxgrzkq1ssx4dz&dl=0",
+    "Crack Severity":"Medium",
+    "mapview_lat":40.6576839,
+    "mapview_lon":-74.61946
+  },
+  {
+    "Address":"29 Dickinson Rd",
+    "Description":"Minor sealed cracks near the edge, otherwise intact.",
+    "Prior Fixes":"Edge sealed",
+    "filename":"20250510185928_29_DickinsonRd_[23].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/ttm5umr68sjp60jqgc4zx\/20250510185928_29_DickinsonRd_-23.jpg?rlkey=j2t38n63kmk16seucdapiniyd&dl=0",
+    "Crack Severity":"Low",
+    "mapview_lat":40.658038,
+    "mapview_lon":-74.6171928
+  },
+  {
+    "Address":"3 Barton Way",
+    "Description":"Wavy sealed lines on driveway near garage entrance; surface uneven. | Curving seal lines near grass and curb suggest recent edge repairs. | Repeat view of previous seal pattern, reinforcing driveway condition.",
+    "Prior Fixes":"Crack sealed",
+    "filename":"20250510191405_3_BartonWay_[3].jpg, 20250510191405_3_BartonWay_[3].jpg, 20250510191413_3_BartonWay_[3].jpg, 20250510191416_3_BartonWay_[3].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/tgt5d62cuk1eb1xf0d5s9\/20250510191405_3_BartonWay_-3.jpg?rlkey=ewo086pu7tx4dnv0m5iz8y6bi&dl=0, https:\/\/www.dropbox.com\/scl\/fi\/tgt5d62cuk1eb1xf0d5s9\/20250510191405_3_BartonWay_-3.jpg?rlkey=ewo086pu7tx4dnv0m5iz8y6bi&dl=0, https:\/\/www.dropbox.com\/scl\/fi\/ezjhuhv2csiveo7gutk43\/20250510191413_3_BartonWay_-3.jpg?rlkey=8aiq81z6ioa1tkav5phqbckm9&dl=0, https:\/\/www.dropbox.com\/scl\/fi\/ohvlinv4wwk8a8fekzyeb\/20250510191416_3_BartonWay_-3.jpg?rlkey=d4uv61zjrvrxaoqgnefmesg5y&dl=0",
+    "Crack Severity":"Medium",
+    "mapview_lat":40.6574108,
+    "mapview_lon":-74.618719
+  },
+  {
+    "Address":"3 Dickinson Rd",
+    "Description":"Sealed crack across driveway entrance; surface intact otherwise.",
+    "Prior Fixes":"Crack sealed",
+    "filename":"20250510191403_3_DickinsonRd_[5].jpg, 20250510191403_3_DickinsonRd_[5].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/jo0in19369nkf46jgdtbp\/20250510191403_3_DickinsonRd_-5.jpg?rlkey=cqopul5q99ap0kwdfc3piramv&dl=0, https:\/\/www.dropbox.com\/scl\/fi\/jo0in19369nkf46jgdtbp\/20250510191403_3_DickinsonRd_-5.jpg?rlkey=cqopul5q99ap0kwdfc3piramv&dl=0",
+    "Crack Severity":"Medium",
+    "mapview_lat":40.6581161,
+    "mapview_lon":-74.6187561
+  },
+  {
+    "Address":"3 Witherspoon Ln",
+    "Description":"Visible minor transverse cracks across the driveway.",
+    "Prior Fixes":"None visible",
+    "filename":"20250510191709_3_WitherspoonLn_[3].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/o7o8k49j1rgchhszxkgp3\/20250510191709_3_WitherspoonLn_-3.jpg?rlkey=tkc0cn39qkrl1noj1ajy3wp8u&dl=0",
+    "Crack Severity":"Low",
+    "mapview_lat":40.6582806,
+    "mapview_lon":-74.6193187
+  },
+  {
+    "Address":"31 Amherst Dr",
+    "Description":"Recently sealed or repaved; consistent blacktop appearance.",
+    "Prior Fixes":"",
+    "filename":"20250510191528_31_AmherstDr_[33].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/fk8a29rhu37hmax4jotvl\/20250510191528_31_AmherstDr_-33.jpg?rlkey=eekwb2hfrr4zwwxdmuf1xeevr&dl=0",
+    "Crack Severity":"Low",
+    "mapview_lat":40.6574919,
+    "mapview_lon":-74.6193746
+  },
+  {
+    "Address":"33 Amherst Dr",
+    "Description":"Smooth surface with no visible cracks or sealed lines. | Confirming excellent condition with full view\u2014surface intact.",
+    "Prior Fixes":"",
+    "filename":"20250510191507_33_AmherstDr_[33].jpg, 20250510191509_33_AmherstDr_[33].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/cmf74so7r4rukag1h4330\/20250510191507_33_AmherstDr_-33.jpg?rlkey=2ibvc4e0y32xasybdvq6kikdv&dl=0, https:\/\/www.dropbox.com\/scl\/fi\/xv7j0zxonhku22759ym6x\/20250510191509_33_AmherstDr_-33.jpg?rlkey=9grvqao5f2cq8jqac8drnx6ih&dl=0",
+    "Crack Severity":"Low",
+    "mapview_lat":40.6573999,
+    "mapview_lon":-74.6193217
+  },
+  {
+    "Address":"34 Benedict Crescent",
+    "Description":"Driveway looks resurfaced or newly sealed; no visible surface wear. | Asphalt driveway is clean and intact; faint surface variation noted under lighting. | Driveway is smooth and shows no structural or cosmetic defects at present.",
+    "Prior Fixes":"None visible",
+    "filename":"20250510184602_34_BenedictCrescent_[36].jpg, 20250510184706_34_BenedictCrescent_[34].jpg, 20250510184726_34_BenedictCrescent_[34].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/sgdq8wvrcxd0av21xzb6q\/20250510184602_34_BenedictCrescent_-36.jpg?rlkey=sdbrnsqpds717inbnrzikhto7&dl=0, https:\/\/www.dropbox.com\/scl\/fi\/9ullce72s42daj922hh6j\/20250510184706_34_BenedictCrescent_-34.jpg?rlkey=9r9q86663g4vyqjyjed2crpam&dl=0, https:\/\/www.dropbox.com\/scl\/fi\/vicqebzb0hjzybno43evh\/20250510184726_34_BenedictCrescent_-34.jpg?rlkey=44o4j4um0iesky4sghwwta6js&dl=0",
+    "Crack Severity":"Low",
+    "mapview_lat":40.660477,
+    "mapview_lon":-74.6180887
+  },
+  {
+    "Address":"35 Amherst Dr",
+    "Description":"Sealed cracks at edge with healthy driveway surface.",
+    "Prior Fixes":"Crack sealed",
+    "filename":"20250510191458_35_AmherstDr_[3].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/384dga2c7tskbskuxtq9f\/20250510191458_35_AmherstDr_-3.jpg?rlkey=bs5kxyvm79760nw4r206h2ula&dl=0",
+    "Crack Severity":"Medium",
+    "mapview_lat":40.6572998,
+    "mapview_lon":-74.6192594
+  },
+  {
+    "Address":"36 Benedict Crescent",
+    "Description":"Clean asphalt with some light edge sealing; driveway presents minimal cracking.",
+    "Prior Fixes":"Edge seal line",
+    "filename":"20250510184543_36_BenedictCrescent_[36].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/s459oln5icq0lngziedwy\/20250510184543_36_BenedictCrescent_-36.jpg?rlkey=kv6o5i3ucew40phzppfzy7qe2&dl=0",
+    "Crack Severity":"Low",
+    "mapview_lat":40.660447,
+    "mapview_lon":-74.6178128
+  },
+  {
+    "Address":"37 Dickinson Rd",
+    "Description":"Cracks across full width, some sealed and some left untreated. | Large branching cracks from curb upward; repairs done but still spreading. | Central crack line with patchy sealing; visible wear persists.",
+    "Prior Fixes":"Crack sealed",
+    "filename":"20250510190108_37_DickinsonRd_[31].jpg, 20250510190113_37_DickinsonRd_[31].jpg, 20250510190120_37_DickinsonRd_[37].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/uve1r84ivmtopke3jttwa\/20250510190108_37_DickinsonRd_-31.jpg?rlkey=t6r3t4e9oheecrl3q6rn0lpj0&dl=0, https:\/\/www.dropbox.com\/scl\/fi\/e7lkyfof46dozp3zehpyd\/20250510190113_37_DickinsonRd_-31.jpg?rlkey=b4ghvoi5wzh8dfnvhr6mmb0wg&dl=0, https:\/\/www.dropbox.com\/scl\/fi\/gq51gg1lnu6xdp6zfe00e\/20250510190120_37_DickinsonRd_-37.jpg?rlkey=e3fqp8mqwb2kmu1vkojzjrnyn&dl=0",
+    "Crack Severity":"Medium",
+    "mapview_lat":40.6586626,
+    "mapview_lon":-74.6171592
+  },
+  {
+    "Address":"39 Dickinson Rd",
+    "Description":"Smooth finish with no visible cracks or damage. | Visible edge cracks with surface stress near curb.",
+    "Prior Fixes":"Edge cracked",
+    "filename":"20250510190125_39_DickinsonRd_[37].jpg, 20250510190128_39_DickinsonRd_[37].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/dxxjknemuuse54bfkuyff\/20250510190125_39_DickinsonRd_-37.jpg?rlkey=ssdecvafkbu2sm5v4ye2z6wzl&dl=0, https:\/\/www.dropbox.com\/scl\/fi\/5czpzgjyq5hchvuzou412\/20250510190128_39_DickinsonRd_-37.jpg?rlkey=dlrfum7xjmc545ode3tdvl0o4&dl=0",
+    "Crack Severity":"Medium",
+    "mapview_lat":40.6587559,
+    "mapview_lon":-74.617159
+  },
+  {
+    "Address":"4 Austin Dr",
+    "Description":"Resurfaced driveway with faint marks; no active cracking. | Patch of tar sealing on corner; surface in good overall condition.",
+    "Prior Fixes":"None visible | Minor sealing",
+    "filename":"20250510192918_4_AustinDr_[2].jpg, 20250510192923_4_AustinDr_[4].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/4fkvxq7lqkdjsduaexbg1\/20250510192918_4_AustinDr_-2.jpg?rlkey=vfcgb3pfymtzdjvd6tpw9b60b&dl=0, https:\/\/www.dropbox.com\/scl\/fi\/srnx0a12jryuxdjxsfufx\/20250510192923_4_AustinDr_-4.jpg?rlkey=dkf8t7kdhygsebv6hpm7vld94&dl=0",
+    "Crack Severity":"Low",
+    "mapview_lat":40.6573519,
+    "mapview_lon":-74.6207729
+  },
+  {
+    "Address":"4 Benedict Crescent",
+    "Description":"Smooth driveway with faint seam crack sealed at the edge. | Surface intact; minor curb-edge sealing but no visible cracking.",
+    "Prior Fixes":"Seam sealed",
+    "filename":"20250510191002_4_BenedictCrescent_[4].jpg, 20250510191006_4_BenedictCrescent_[4].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/fadn8lne4g82y3yxmhbq7\/20250510191002_4_BenedictCrescent_-4.jpg?rlkey=wtgyyx0zx0c048oc9jkz6xh8f&dl=0, https:\/\/www.dropbox.com\/scl\/fi\/m21ybx6i6g2crpx808ysg\/20250510191006_4_BenedictCrescent_-4.jpg?rlkey=gc8bqzen8qbvvg83jtw7a9tv2&dl=0",
+    "Crack Severity":"Low",
+    "mapview_lat":40.6581848,
+    "mapview_lon":-74.6179209
+  },
+  {
+    "Address":"4 Dickinson Rd",
+    "Description":"Clean asphalt surface with minor seam touch-ups near stone edge. | Sealed joint by curb, otherwise intact surface.",
+    "Prior Fixes":"Seam sealed",
+    "filename":"20250510185453_4_DickinsonRd_[4].jpg, 20250510185525_4_DickinsonRd_[4].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/x992t4b1tnd5am5t05d7c\/20250510185453_4_DickinsonRd_-4.jpg?rlkey=94ib1uyphs9zwx39sgd5nap9i&dl=0, https:\/\/www.dropbox.com\/scl\/fi\/krjtt2a9zt1jgh0ho0y27\/20250510185525_4_DickinsonRd_-4.jpg?rlkey=5brkwftn4uu68wwdnmk11sh9n&dl=0",
+    "Crack Severity":"Low",
+    "mapview_lat":40.6581983,
+    "mapview_lon":-74.6185068
+  },
+  {
+    "Address":"40 Dickinson Rd",
+    "Description":"Asphalt shows uneven crack near edge; clear structural fault beginning.",
+    "Prior Fixes":"None visible",
+    "filename":"20250510183537_40_DickinsonRd_[40].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/yxomfdar7gj4qsepxd0dk\/20250510183537_40_DickinsonRd_-40.jpg?rlkey=dx3u4y67kxrgbve3umtu4drbf&dl=0",
+    "Crack Severity":"Medium",
+    "mapview_lat":40.6588509,
+    "mapview_lon":-74.617714
+  },
+  {
+    "Address":"41 Dickinson Rd",
+    "Description":"Minor sealed edge, otherwise intact. | Reinforces good surface condition with minimal signs of wear.",
+    "Prior Fixes":"Seam sealed",
+    "filename":"20250510190150_41_DickinsonRd_[37].jpg, 20250510190152_41_DickinsonRd_[37].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/ig3ea6cxg9vsnijzoj1tr\/20250510190150_41_DickinsonRd_-37.jpg?rlkey=os5gex21urjcqdne3etxl8an7&dl=0, https:\/\/www.dropbox.com\/scl\/fi\/bp7o2iqvbmskx8bjvbupr\/20250510190152_41_DickinsonRd_-37.jpg?rlkey=l21w1utoott7mk2tcx6a4a4hc&dl=0",
+    "Crack Severity":"Low",
+    "mapview_lat":40.6588655,
+    "mapview_lon":-74.6171602
+  },
+  {
+    "Address":"42 Dickinson Rd",
+    "Description":"Asphalt driveway with a large curved surface crack; no sealing or patching present.",
+    "Prior Fixes":"None visible",
+    "filename":"20250510183511_42_DickinsonRd_[40].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/vsvmry7jx68uey91f01dt\/20250510183511_42_DickinsonRd_-40.jpg?rlkey=qkvz3bgw4afp7b0bmu7zx2h4p&dl=0",
+    "Crack Severity":"Medium",
+    "mapview_lat":40.6590674,
+    "mapview_lon":-74.6176945
+  },
+  {
+    "Address":"43 Dickinson Rd",
+    "Description":"Long central crack forming on slope; needs sealing. | Continued crack propagation visible across central surface. | Close-up shows crack depth and extent without prior repairs.",
+    "Prior Fixes":"",
+    "filename":"20250510190217_43_DickinsonRd_[37].jpg, 20250510190221_43_DickinsonRd_[43].jpg, 20250510190237_43_DickinsonRd_[43].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/gqm69ro15titj3dlskts4\/20250510190217_43_DickinsonRd_-37.jpg?rlkey=sdr9446rz2gzmj0ly4pix4zme&dl=0, https:\/\/www.dropbox.com\/scl\/fi\/fd1vtqz4jh5sui8w5lawa\/20250510190221_43_DickinsonRd_-43.jpg?rlkey=kxfm01s9bxca52f6autqamf61&dl=0, https:\/\/www.dropbox.com\/scl\/fi\/owje2xx2agix4smpufhud\/20250510190237_43_DickinsonRd_-43.jpg?rlkey=mhgu3us1ldfid5qse0y5xg5og&dl=0",
+    "Crack Severity":"Medium",
+    "mapview_lat":40.6590678,
+    "mapview_lon":-74.6171546
+  },
+  {
+    "Address":"44 Dickinson Rd",
+    "Description":"Faint surface cracks near garage entry; asphalt appears in good condition overall. | Surface-level cracks forming near center and edge; could benefit from sealing soon.",
+    "Prior Fixes":"",
+    "filename":"20250510183533_44_DickinsonRd_[40].jpg, 20250510183546_44_DickinsonRd_[44].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/m71vq6w8ca8d64p5fddko\/20250510183533_44_DickinsonRd_-40.jpg?rlkey=ghkut46mlueu5bhrhrkxtqmzo&dl=0, https:\/\/www.dropbox.com\/scl\/fi\/t7ajb1klpxs444dud625x\/20250510183546_44_DickinsonRd_-44.jpg?rlkey=acr9ky9gaxvclw0uxqk4nthac&dl=0",
+    "Crack Severity":"Medium",
+    "mapview_lat":40.6591729,
+    "mapview_lon":-74.6176908
+  },
+  {
+    "Address":"45 Dickinson Rd",
+    "Description":"Curb edge sealant applied over complex crack branches; moderate severity.",
+    "Prior Fixes":"Crack sealed",
+    "filename":"20250510190239_45_DickinsonRd_[43].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/o5nqd4llu3g4glcc4ldsu\/20250510190239_45_DickinsonRd_-43.jpg?rlkey=hidd5zt1820eu4395eoimy1cb&dl=0",
+    "Crack Severity":"Medium",
+    "mapview_lat":40.6591769,
+    "mapview_lon":-74.6171482
+  },
+  {
+    "Address":"46 Dickinson Rd",
+    "Description":"Irregular crack near center of driveway extending toward curb; moderate risk.",
+    "Prior Fixes":"",
+    "filename":"20250510183600_46_DickinsonRd_[46].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/bt69347htihnv17efhg1a\/20250510183600_46_DickinsonRd_-46.jpg?rlkey=j7hawse6zayaj679navhh98gl&dl=0",
+    "Crack Severity":"Medium",
+    "mapview_lat":40.6592687,
+    "mapview_lon":-74.6176963
+  },
+  {
+    "Address":"48 Dickinson Rd",
+    "Description":"No visible cracking; surface in excellent condition.",
+    "Prior Fixes":"",
+    "filename":"20250510183618_48_DickinsonRd_[46].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/28m10ymv6c0bfjqsq2xix\/20250510183618_48_DickinsonRd_-46.jpg?rlkey=0pmteec9dbfqyd308n2uwf44u&dl=0",
+    "Crack Severity":"Low",
+    "mapview_lat":40.659483,
+    "mapview_lon":-74.61768
+  },
+  {
+    "Address":"5 Springfield Ln",
+    "Description":"Driveway appears recently resurfaced with minimal wear; faint surface lines only. | Good condition blacktop; no visible structural cracks, even near the curb edge.",
+    "Prior Fixes":"None visible",
+    "filename":"20250510184005_5_SpringfieldLn_[4].jpg, 20250510184022_5_SpringfieldLn_[4].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/qvyznyzdh1fal5x9u5g7l\/20250510184005_5_SpringfieldLn_-4.jpg?rlkey=07rwk7459ef5qgvkhxhvfc8bj&dl=0, https:\/\/www.dropbox.com\/scl\/fi\/q1vfi8pr9h25kydupoj6b\/20250510184022_5_SpringfieldLn_-4.jpg?rlkey=22irkjeu1t3s94p7w5ku276nr&dl=0",
+    "Crack Severity":"Low",
+    "mapview_lat":40.6608208,
+    "mapview_lon":-74.617474
+  },
+  {
+    "Address":"5 Witherspoon Ln",
+    "Description":"Asphalt patching near mailbox; cracks along driveway edge. | Noticeable edge patch with contrast in surface tone and slight settling.",
+    "Prior Fixes":"Partial patching",
+    "filename":"20250510191725_3_WitherspoonLn_[3].jpg, 20250510191725_5_WitherspoonLn_[3].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/b1nojg9vs8lmmvga8strm\/20250510191725_3_WitherspoonLn_-3.jpg?rlkey=kx0vz6muo33cvcgmqfqj97cls&dl=0, https:\/\/www.dropbox.com\/scl\/fi\/qaz3jzvfr8u28tisf8tc9\/20250510191725_5_WitherspoonLn_-3.jpg?rlkey=nxrxg6f2l8y2kbidib555xqs9&dl=0",
+    "Crack Severity":"Medium",
+    "mapview_lat":40.6582806,
+    "mapview_lon":-74.6193187
+  },
+  {
+    "Address":"52 Dickinson Rd",
+    "Description":"Small surface-level cracking near the edges; no clear structural concern.",
+    "Prior Fixes":"",
+    "filename":"20250510183645_52_DickinsonRd_[46].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/c8byqu6d062y5vxqc9cmd\/20250510183645_52_DickinsonRd_-46.jpg?rlkey=bza7awkmqabs41z0waq1qkcgm&dl=0",
+    "Crack Severity":"Low",
+    "mapview_lat":40.6597166,
+    "mapview_lon":-74.6176621
+  },
+  {
+    "Address":"6 Benedict Crescent",
+    "Description":"Cracks sealed near curb; surface slightly uneven at edge. | Multiple fine cracks and visible sealing at driveway edge.",
+    "Prior Fixes":"Crack sealed | Edge sealed",
+    "filename":"20250510190941_6_BenedictCrescent_[8].jpg, 20250510190953_6_BenedictCrescent_[8].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/54ovfd4foucvobh8jsw5z\/20250510190941_6_BenedictCrescent_-8.jpg?rlkey=pjpeeqvo5rjtfadwtkpzux377&dl=0, https:\/\/www.dropbox.com\/scl\/fi\/rjrnhpuyaw5fwmlnkqclr\/20250510190953_6_BenedictCrescent_-8.jpg?rlkey=2dio4z4pc3kustnc504ili4jn&dl=0",
+    "Crack Severity":"Medium",
+    "mapview_lat":40.6583724,
+    "mapview_lon":-74.6181274
+  },
+  {
+    "Address":"61 Dickinson Rd",
+    "Description":"Driveway in excellent condition; no visible cracks or patching needed.",
+    "Prior Fixes":"",
+    "filename":"20250510184454_61_DickinsonRd_[63].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/wr1rify0u1dltz3w7m2so\/20250510184454_61_DickinsonRd_-63.jpg?rlkey=urvdfhosofdk9y112ioggssga&dl=0",
+    "Crack Severity":"Low",
+    "mapview_lat":40.6604503,
+    "mapview_lon":-74.617033
+  },
+  {
+    "Address":"63 Dickinson Rd",
+    "Description":"Smooth driveway surface with slight shadow cracking; no repairs visible. | No cracks observed; recently surfaced or exceptionally well preserved asphalt.",
+    "Prior Fixes":"",
+    "filename":"20250510184452_63_DickinsonRd_[63].jpg, 20250510184522_63_DickinsonRd_[63].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/9v62s4oi4wx9u6xo8afwg\/20250510184452_63_DickinsonRd_-63.jpg?rlkey=4hen0h0y6dab5dv4hbyojde4u&dl=0, https:\/\/www.dropbox.com\/scl\/fi\/0vfodar0f0sm2klos7y6e\/20250510184522_63_DickinsonRd_-63.jpg?rlkey=4wiei0kp2fpvdcmfomvqwe4x0&dl=0",
+    "Crack Severity":"Low",
+    "mapview_lat":40.6604221,
+    "mapview_lon":-74.6171646
+  },
+  {
+    "Address":"7 Dickinson Rd",
+    "Description":"Patch work near stone border; cracking still visible beneath. | Central area shows interconnected cracks with aging signs. | Longitudinal cracking concentrated near grassy edge. | Seam sealed at curb edge; overall surface in good condition.",
+    "Prior Fixes":"Edge patched | Edge sealed",
+    "filename":"20250510185646_7_DickinsonRd_[8].jpg, 20250510185651_7_DickinsonRd_[7].jpg, 20250510185657_7_DickinsonRd_[7].jpg, 20250510185735_7_DickinsonRd_[7].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/sqqpmcd9a4x6tzlqxra7r\/20250510185646_7_DickinsonRd_-8.jpg?rlkey=e0gtc4155j2ugs72c8p3useep&dl=0, https:\/\/www.dropbox.com\/scl\/fi\/7er74fot4eabexzp6qh1x\/20250510185651_7_DickinsonRd_-7.jpg?rlkey=0gb2sj84iezj374k49t49rmve&dl=0, https:\/\/www.dropbox.com\/scl\/fi\/fs6vexzlkagxtbh9f8zg9\/20250510185657_7_DickinsonRd_-7.jpg?rlkey=a2vct3v156jlaslki5j9e15op&dl=0, https:\/\/www.dropbox.com\/scl\/fi\/1aa3zuqegsak3znit1h0r\/20250510185735_7_DickinsonRd_-7.jpg?rlkey=2hhggiw7ek96p244c5oy3d15m&dl=0",
+    "Crack Severity":"Medium",
+    "mapview_lat":40.6574625,
+    "mapview_lon":-74.6182897
+  },
+  {
+    "Address":"7 Hadley Ct",
+    "Description":"Newly resurfaced asphalt with no visible cracking or wear. | Pristine blacktop; edge and surface show no damage or sealant marks.",
+    "Prior Fixes":"None visible",
+    "filename":"20250510192154_7_HadleyCt_[5].jpg, 20250510192204_7_HadleyCt_[7].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/4vxvioi4ini8n10kfn47l\/20250510192154_7_HadleyCt_-5.jpg?rlkey=j6r58n7w3x4fgn0jez2rxv8dt&dl=0, https:\/\/www.dropbox.com\/scl\/fi\/2rf1hmfje92ucb75mepca\/20250510192204_7_HadleyCt_-7.jpg?rlkey=kx6ll51dz7brk9qqlgj0x6tfr&dl=0",
+    "Crack Severity":"Low",
+    "mapview_lat":40.6581194,
+    "mapview_lon":-74.6210182
+  },
+  {
+    "Address":"7 Springfield Ln",
+    "Description":"Driveway well maintained; a few faint sealant lines near curb with no active cracks.",
+    "Prior Fixes":"Edge sealing only",
+    "filename":"20250510184351_7_SpringfieldLn_[7].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/jok3tb8wheitb6fv5kr2e\/20250510184351_7_SpringfieldLn_-7.jpg?rlkey=cx9mn5cuz6s87x4ollzmxeo6u&dl=0",
+    "Crack Severity":"Low",
+    "mapview_lat":40.6991079,
+    "mapview_lon":-74.5552535
+  },
+  {
+    "Address":"7 Witherspoon Ln",
+    "Description":"Some unevenness and prior patching near the edge, with visible aging. | Cracks at the driveway\/road seam have been sealed; surface slightly uneven.",
+    "Prior Fixes":"Edge patched | Edge sealed",
+    "filename":"20250510185414_7_WitherspoonLn_[11].jpg, 20250510185417_7_WitherspoonLn_[11].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/5phw2b5tdmzbm75oo6ziv\/20250510185414_7_WitherspoonLn_-11.jpg?rlkey=37dz74dur6ceh1cvygcoebmgx&dl=0, https:\/\/www.dropbox.com\/scl\/fi\/axiyq6sxxi7wx5krtatof\/20250510185417_7_WitherspoonLn_-11.jpg?rlkey=9w2aau5lvhmkoe7ylturuf0ee&dl=0",
+    "Crack Severity":"Medium",
+    "mapview_lat":40.6584901,
+    "mapview_lon":-74.6190137
+  },
+  {
+    "Address":"8 Austin Dr",
+    "Description":"Newly repaved driveway; no cracks, minor surface texture visible.",
+    "Prior Fixes":"None visible",
+    "filename":"20250510193231_8_AustinDr_[6].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/lk6mzvte5f4p3j1l61c55\/20250510193231_8_AustinDr_-6.jpg?rlkey=qurqeiqavz2dtzmgerzds2df5&dl=0",
+    "Crack Severity":"Low",
+    "mapview_lat":40.657133,
+    "mapview_lon":-74.6204613
+  },
+  {
+    "Address":"8 Benedict Crescent",
+    "Description":"Cracks near curb sealed; driveway surface generally in good condition.",
+    "Prior Fixes":"Edge sealed",
+    "filename":"20250510190921_8_BenedictCrescent_[8].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/gdexlbrd6sxk3qtqclifc\/20250510190921_8_BenedictCrescent_-8.jpg?rlkey=von6al7xl51h9c9ue5r2coev3&dl=0",
+    "Crack Severity":"Medium",
+    "mapview_lat":40.6584552,
+    "mapview_lon":-74.6182106
+  },
+  {
+    "Address":"8 Dickinson Rd",
+    "Description":"Crack sealing visible along edges, slight surface unevenness noted.",
+    "Prior Fixes":"Edge sealed",
+    "filename":"20250510185543_8_DickinsonRd_[4].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/46h01l1gh43qgaa9a3gox\/20250510185543_8_DickinsonRd_-4.jpg?rlkey=ru57y6j8i9kpaqi1hixyispm6&dl=0",
+    "Crack Severity":"Medium",
+    "mapview_lat":40.6579521,
+    "mapview_lon":-74.6182321
+  },
+  {
+    "Address":"8 Springfield Ln",
+    "Description":"Crossing surface cracks sealed with tar; appears to be recent maintenance.",
+    "Prior Fixes":"Recent sealing",
+    "filename":"20250510184220_8_SpringfieldLn_[4].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/8luwzvh7ebx1jhxqk0ec4\/20250510184220_8_SpringfieldLn_-4.jpg?rlkey=cybof1x33gc1g9tqusovajriy&dl=0",
+    "Crack Severity":"Medium",
+    "mapview_lat":40.6612372,
+    "mapview_lon":-74.6170767
+  },
+  {
+    "Address":"9 Hadley Ct",
+    "Description":"Clean asphalt with slight sealing along one edge near grass.",
+    "Prior Fixes":"Edge sealed",
+    "filename":"20250510192219_9_HadleyCt_[7].jpg",
+    "dropbox_url":"https:\/\/www.dropbox.com\/scl\/fi\/k6dvoh06sdplx2wynh1mm\/20250510192219_9_HadleyCt_-7.jpg?rlkey=lsa2qcqq3bcjkouedo5dxujyk&dl=0",
+    "Crack Severity":"Low",
+    "mapview_lat":40.6582297,
+    "mapview_lon":-74.6210339
+  }
+]
