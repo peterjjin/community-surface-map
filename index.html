@@ -151,6 +151,12 @@
         });
 
         const content = document.createElement('div');
+        const title = document.createElement('h4');
+        title.style.marginTop = '0';
+        title.style.marginBottom = '8px';
+        title.textContent = item.Address || item.filename || 'Unknown Address';
+        content.appendChild(title);
+
         const imgContainer = document.createElement('div');
         imgContainer.className = 'zoom-container';
         const img = document.createElement('img');
@@ -257,6 +263,64 @@
           updatePagination();
         }
 
+        // === Editable form section ===
+        const editForm = document.createElement('div');
+        editForm.innerHTML = `
+          <hr>
+          <label>Classification:
+            <select id="typeSelect">
+              <option ${type === 'driveway' ? 'selected' : ''}>driveway</option>
+              <option ${type === 'road' ? 'selected' : ''}>road</option>
+              <option ${type === 'pedwalk' ? 'selected' : ''}>pedwalk</option>
+            </select>
+          </label><br><br>
+          <label>Severity:
+            <select id="severitySelect">
+              <option ${item['Crack Severity'] === 'Low' ? 'selected' : ''}>Low</option>
+              <option ${item['Crack Severity'] === 'Medium' ? 'selected' : ''}>Medium</option>
+              <option ${item['Crack Severity'] === 'High' ? 'selected' : ''}>High</option>
+            </select>
+          </label><br><br>
+          <label>Notes:<br>
+            <textarea id="descriptionTextarea" rows="4" cols="30">${item.Description || ''}</textarea>
+          </label><br><br>
+          <label>Upload Photo(s):
+            <input type="file" id="fileInput" multiple accept="image/*">
+          </label><br><br>
+
+          <button id="saveBtn">Save Changes</button>
+        `;
+        content.appendChild(editForm);
+
+        // === Save handler ===
+        editForm.querySelector('#saveBtn').addEventListener('click', () => {
+          const severity = editForm.querySelector('#severitySelect').value;
+          const description = editForm.querySelector('#descriptionTextarea').value;
+          const files = editForm.querySelector('#fileInput').files;
+
+          const payload = new FormData();
+          payload.append('address', item.Address || item.filename);
+          payload.append('severity', severity);
+          payload.append('description', description);
+          payload.append('type', type); // driveway / road / pedwalk
+          payload.append('newType', editForm.querySelector('#typeSelect').value);
+
+          for (let file of files) {
+            payload.append('photos', file);
+          }
+
+          fetch('/upload-edit', {
+            method: 'POST',
+            body: payload
+          }).then(res => {
+            if (res.ok) {
+              alert("Changes saved. Refresh to see updates.");
+            } else {
+              alert("Error saving changes.");
+            }
+          });
+        });
+
         const infoWindow = new google.maps.InfoWindow({ content });
         marker.addListener("click", () => infoWindow.open(map, marker));
         markerArray.push(marker);
@@ -271,6 +335,7 @@
         container.appendChild(record);
       });
     }
+
 
     document.querySelectorAll('.tab').forEach(tab => {
       tab.addEventListener('click', () => {
